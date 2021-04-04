@@ -9,4 +9,4 @@ Nous étudions ici le cancer du sein, et plus précisément les carcinomes canal
 
 La base de données utilisée est celle de Paul Mooney [disponible ici](https://www.kaggle.com/paultimothymooney/breast-histopathology-images)
 
-![exemple échantillon](https://github.com/claponcet/ProjetIA/blob/main/echantillonCoeur.PNG)
+![exemple échantillon](https://github.com/claponcet/DUT---IA-Detection-Cancer/Documentation/imagesExemple.PNG)
